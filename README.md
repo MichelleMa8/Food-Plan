@@ -1,4 +1,4 @@
-# Food-Plan
+# Meal-Plan
 
 ## Background
 
