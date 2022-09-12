@@ -2,7 +2,10 @@
 
 ## Background
 
-This project generates one week meal plans for four members, which mainly composes of two technical part: a matrix completion problem and a mixed integer programming(MIP) problem.
+This project generates one week meal plans for four members, which mainly composes of two technical parts: 
+
+1. A matrix completion problem  to get the members’ preference towards many dishes;   
+2. A mixed integer programming(MIP) problem to design an optimal meal plan.
 
 ## File
 matrix_completion_predicted_rating.ipynb：Code of Matrix Completion. 
